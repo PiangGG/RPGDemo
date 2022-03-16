@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RPGDemo",
+			"Path": "E:\\Piang\\UnrealEngineProject\\RPGDemo\\Source\\RPGDemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RPGDemoEditor",
+			"Path": "E:\\Piang\\UnrealEngineProject\\RPGDemo\\Source\\RPGDemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
